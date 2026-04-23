@@ -1,6 +1,9 @@
 # QuPath-Proportional-Cortex-Segmentation
 An automated workflow for QuPath to segment cortical layers based on proportional distance between the **Pia** and **White Matter (WM)** boundaries.
 
+## 📺 Workflow Demo
+![Cortical Layering Demo](examples/demo.gif)
+
 ## Features
 1.Automated Segmentation: Generates Layers 1-6 polygons instantly.
 2.Proportional Logic: Uses distance ratios (e.g., 10% for Layer 1) to ensure accuracy across varying cortical thicknesses.
